@@ -1,0 +1,22 @@
+{
+"Pago24": {
+    "Portal": "Pago24",
+    "URL": "url",
+    "Usuario": "usuario",
+    "Clave": "contraseña",
+
+    "Ruta_Banco": "Ubicación del directorio de pago24",
+    "Ruta_Descarga": "Ubicación del directorio de descarga",
+    "Ruta_Destino": "Ubicación del directorio de destino",
+    "Xpaths": "Ubicación del JSOn de xpaths",
+
+    "Nombre_archivo": "reporte",
+    "Modo_Grafico": "False"
+},
+"Parametros": {
+    "Hora_Inicio": "",
+    "Frecuencia_Dias": 1,
+    "Modo_Grafico": "True",
+    "Resolucion_MG": "1900,1080"
+}
+}
